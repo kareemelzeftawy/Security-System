@@ -21,5 +21,18 @@ Security System using the Raspberry pi 3, Pi camera, L293D Hat, Dc Motors and Pn
 
 # 2. Face Recognition & Detection
 
+2.1 [Face Recognition Project](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)
 
+2.2 [Real-time object detection with deep learning and OpenCV](https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/)
 
+2.3 [Unifying picamera and cv2.VideoCapture into a single class with OpenCV](https://www.pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv/)
+
+2.4 [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/)
+
+2.5 [Faster video file FPS with cv2.VideoCapture and OpenCV](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/)
+
+2.6 [High-performance realtime video processing (in Python)](https://github.com/vmlaker/sherlock)
+
+2.7 [RPi-Monitor](http://rpi-experiences.blogspot.com.eg/2017/08/the-version-2.html#more)
+
+2.8 [Optimizing OpenCV3.3.0 on the Raspberry Pi](https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/)
