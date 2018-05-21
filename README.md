@@ -3,7 +3,7 @@ Security System using the Raspberry pi 3, Pi camera, L293D Hat, Dc Motors and Pn
 
 # Resources
 
-# 1. Pn532
+# 1. Pn532 (NFC)
 
 1.1 [Add RFID/NFC read and write to your Pi in an hour!](https://learn.adafruit.com/adafruit-nfc-rfid-on-raspberry-pi/building-libnfc)
 
@@ -36,3 +36,9 @@ Security System using the Raspberry pi 3, Pi camera, L293D Hat, Dc Motors and Pn
 2.7 [RPi-Monitor](http://rpi-experiences.blogspot.com.eg/2017/08/the-version-2.html#more)
 
 2.8 [Optimizing OpenCV3.3.0 on the Raspberry Pi](https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/)
+
+# 3. Recording
+
+3.1 [OpenCV Recording Tutorials](https://docs.opencv.org/3.1.0/dd/d43/tutorial_py_video_display.html)
+
+3.2 [Writing to video with OpenCV](https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/)
